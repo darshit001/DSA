@@ -11,6 +11,7 @@ void printdigit(int n) {
    cout<<digit<<endl;
 }
 
+
 int main() {
     int n=356;
     printdigit(n);
